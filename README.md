@@ -12,7 +12,7 @@
 #### - Mencetak hasil penjumlahan a+b
 ![Gambar](gambar/gambar2.png)
 
-![Gambar](gambar/gambar3.png)
+![Gambar](gambar/gambar4.png)
 
 ## Menjalankan IDLE
 
