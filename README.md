@@ -6,9 +6,9 @@
 
 ## Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
 
-#### - Mendefinisikan variaber a dengan nilai 8
-#### - Mendefinisikan variabel b dengan nilai 6
-#### - Mencetak nilai variabel a dan b 
+#### - Mendefinisikan variable a dengan nilai 8
+#### - Mendefinisikan variable b dengan nilai 6
+#### - Mencetak nilai variable a dan b 
 #### - Mencetak hasil penjumlahan a+b
 ![Gambar](gambar/gambar2.png)
 
@@ -26,4 +26,17 @@
 
 [GitHub Pages](https://www.jetbrains.com/pycharm/).
 
-![gambar}(gambar/gambar5.png)
+![Gambar](gambar/gambar5.png)
+
+## Virtual Environment (Venv)
+
+![Gambar](gambar/gambar6.png)
+
+## Menambahkan File Baru
+
+#### - Main.py
+![Gambar](gambar/gambar8.png)
+
+## Menjalankan Program
+
+![Gambar](gambar/gambar9.png)
