@@ -20,5 +20,5 @@
 #### - Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
 ![Gambar](gambar/gambar3.png)
 
-![Gambar](gambar/gambar10.png)
+![Gambar](gambar/gambar10.jpeg)
 
