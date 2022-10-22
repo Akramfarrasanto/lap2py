@@ -1,6 +1,6 @@
 ## Menjalankan Python Console 
 
-#### - Menampilkan tulisan "Hello" dilayar.
+#### - Menampilkan tulisan "Hello World" dilayar.
 #### - Menampilkan tulisan "Saya Sedang Belajar Python" dilayar.
 ![Gambar](gambar/gambar1.png)
 
@@ -24,7 +24,7 @@
 
 ## PyCharm
 
-[GitHub Pages](https://www.jetbrains.com/pycharm/).
+### https://www.jetbrains.com/pycharm/
 
 ![Gambar](gambar/gambar5.png)
 
